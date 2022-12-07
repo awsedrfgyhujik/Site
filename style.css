@@ -3,7 +3,7 @@ body {
   height: 100%;
   width: 100%;
   margin: 0px;
-  background: linear-gradient(90deg, #2f3640 23%, #181b20 100%);
+  background: linear-gradient(90deg, #000000 100%%, #000000 100%);
 }
 
 .moon {
